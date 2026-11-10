@@ -2,8 +2,6 @@
 
 <img src="assets/hero-v5.svg" alt="Hi, I'm dxckie" width="100%"/>
 
-<img src="assets/marquee-v5.svg" alt="" width="100%"/>
-
 <img src="assets/plugins-title-v5.svg" alt="my plugins" width="100%"/>
 
 <a href="https://github.com/dxckie-cell/valenced-plugins/tree/main/plugins/profile-spoof"><img src="assets/row-profile-spoof-v5.svg" alt="Profile Spoof" width="100%"/></a>
