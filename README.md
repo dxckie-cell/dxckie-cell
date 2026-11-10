@@ -2,7 +2,7 @@
 
 <img src="assets/hero-v30.svg" alt="Hi, I'm dxckie" width="100%"/>
 
-<img src="assets/plugins-title-v30.svg" alt="my plugins" width="100%"/>
+<img src="assets/plugins-title-v31.svg" alt="my plugins" width="100%"/>
 
 <a href="https://github.com/dxckie-cell/valenced-plugins/tree/main/plugins/profile-spoof"><img src="assets/row-profile-spoof-v30.svg" alt="Profile Spoof" width="100%"/></a>
 <a href="https://github.com/dxckie-cell/valenced-plugins/tree/main/plugins/override-user-avatars"><img src="assets/row-override-user-avatars-v30.svg" alt="Override User Avatars" width="100%"/></a>
