@@ -2,6 +2,8 @@
 
 <img src="assets/hero.svg" alt="Hi, I'm dxckie" width="100%"/>
 
+<img src="assets/marquee.svg" alt="" width="100%"/>
+
 <img src="assets/about.svg" alt="about me" width="100%"/>
 
 <img src="assets/plugins-title.svg" alt="my plugins" width="100%"/>
