@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-v8.svg" alt="Hi, I'm dxckie" width="100%"/>
+<img src="assets/hero-v9.svg" alt="Hi, I'm dxckie" width="100%"/>
 
 <img src="assets/plugins-title-v5.svg" alt="my plugins" width="100%"/>
 
@@ -14,6 +14,6 @@
 
 <br/>
 
-<img src="assets/footer-v5.svg" alt="stay smooth" width="100%"/>
+<img src="assets/footer-v6.svg" alt="stay smooth" width="100%"/>
 
 </div>
