@@ -14,6 +14,6 @@
 
 <br/>
 
-<img src="assets/footer-v12.svg" alt="stay smooth" width="100%"/>
+<img src="assets/footer-v14.svg" alt="stay smooth" width="100%"/>
 
 </div>
