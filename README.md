@@ -14,8 +14,6 @@
 
 <br/>
 
-<img src="assets/stack-v5.svg" alt="built with" width="100%"/>
-
 <img src="assets/footer-v5.svg" alt="stay smooth" width="100%"/>
 
 </div>
